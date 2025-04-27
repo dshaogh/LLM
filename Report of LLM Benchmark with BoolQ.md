@@ -59,7 +59,7 @@ Because of the limitations of Colab, we did this benchmark with quantized models
   * Colab with T4 GPU  
   * Mixtral need high RAM runtime.  
 * **Colab notebook example:**  
-  * [llama3-book.ipynb](https://colab.research.google.com/drive/1Fm8dylQTI4daUAVgv16pRB9whzsevp99)
+  * [llama3-boolq.ipynb](https://colab.research.google.com/drive/1Fm8dylQTI4daUAVgv16pRB9whzsevp99)
 
 ## **Results**
 
