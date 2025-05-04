@@ -90,7 +90,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 
 ![chart](SQuAD_v2_Unanswerable.png)
 
-**Best Accuracy**: *Qwen2.5 (64.5%)* is the most honest model  
+**Best Accuracy (most honest)**: *Qwen2.5 (64.5%)*  
  **Fastest Model**: *Gemma3 (46s)*
 
 ---
