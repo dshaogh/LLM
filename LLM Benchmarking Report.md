@@ -52,7 +52,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 | Qwen2.5 | 94% | **2.5%** | 3.5% | 60s |
 | Qwen3 | 91.5% | 3% | 5.5% | 60s |
 
-**![chart][SQuAD_v1_Answerable.png]**
+**[chart](SQuAD_v1_Answerable.png)**
 
 **Best Accuracy**: *Mistral (95.5%)*  
  **Lowest Wrong Rate**: *Qwen2.5 (2.5%)*  
