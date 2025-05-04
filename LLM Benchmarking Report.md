@@ -6,8 +6,7 @@
 
 ## **Abstract**
 
-Comparative Analysis of Gemma3, Llama3, Mistral, Qwen2.5, and Qwen3  
- (Tasks: BoolQ, SQuAD v1, SQuAD v2)
+Comparative Analysis of Gemma3, Llama3, Mistral, Qwen2.5, and Qwen3  with benchmark: BoolQ, SQuAD v1, and SQuAD v2.
 
 ## **1\. Benchmark Overview**
 
