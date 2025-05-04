@@ -52,7 +52,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 | Qwen2.5 | 94% | **2.5%** | 3.5% | 60s |
 | Qwen3 | 91.5% | 3% | 5.5% | 60s |
 
-**[chart](SQuAD_v1_Answerable.png)**
+[chart](SQuAD_v1_Answerable.png)
 
 **Best Accuracy**: *Mistral (95.5%)*  
  **Lowest Wrong Rate**: *Qwen2.5 (2.5%)*  
@@ -70,7 +70,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 | Qwen2.5 | 81.5% | **10%** | 8.5% | 60s |
 | Qwen3 | **83%** | 13% | 4% | 2m |
 
-**![chart][SQuAD_v2_Answerable.png]**
+![chart](SQuAD_v2_Answerable.png)
 
 **Best Accuracy**: *Qwen3 (83%)*  
  **Lowest Wrong Rate**: *Qwen2.5 (10%)*  
@@ -88,7 +88,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 | Qwen2.5 | **64.5%** | 35.5% | 60s |
 | Qwen3 | 50% | 50% | 2m |
 
-**![chart][SQuAD_v2_Unanswerable.png]**
+![chart](SQuAD_v2_Unanswerable.png)
 
 **Best Accuracy**: *Qwen2.5 (64.5%)* is the most honest model  
  **Fastest Model**: *Gemma3 (46s)*
