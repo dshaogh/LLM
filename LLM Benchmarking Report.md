@@ -34,7 +34,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 | Qwen2.5 | 83% | **1%** | 16% | 4m |
 | Qwen3 | 81.5% | 2% | 16.5% | 1m |
 
-![chart]("BoolQ Benchmark.png")
+![chart]("BoolQ_Benchmark.png")
 
 **Best Accuracy**: *Mistral (86%)*  
  **Fastest Model**: *Gemma3 (42s)*  
