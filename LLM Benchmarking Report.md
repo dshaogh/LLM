@@ -99,7 +99,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 
 * **Mistral** consistently achieved the **highest accuracy** on BoolQ and SQuAD v1, but at the cost of **longer inference time** (up to 6 minutes).
 
-* **Qwen2.5** stands out as a **strong all-rounder**, especially in SQuAD v2 (general benchmark). It has the highest correct rate (64.5%) and **lowest false positives** in BoolQ.
+* **Qwen2.5** stands out as a **strong all-rounder**, especially in SQuAD v2 (general benchmark). It has the highest correct rate (64.5%) and **lowest false positives** in BoolQ. It is the **most honest** model.
 
 * **Qwen3** improved on Qwen2.5 in the answerable portion of SQuAD v2 but lagged in the general benchmark.
 
