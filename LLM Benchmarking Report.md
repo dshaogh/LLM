@@ -21,8 +21,14 @@ We evaluated five leading open-source LLMs on three different datasets:
 Metrics include **accuracy**, **false positives/negatives**, **correct/wrong answer rates**, and **inference time**.
 
 ---
+## **2\. Settings **
 
-## **2\. Results Summary**
+We pick 200 questions for each benchmark and verify responses from LLM by using EM (Exact Match) and Cosine Similarity. 
+
+We run LLMs with Ollama and ask questions through Ollama's *generate* API. 
+
+---
+## **3\. Results Summary**
 
 ### **BoolQ Benchmark**
 
@@ -95,7 +101,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 
 ---
 
-## **3\. Analysis & Key Insights**
+## **4\. Analysis & Key Insights**
 
 * **Mistral** consistently achieved the **highest accuracy** on BoolQ and SQuAD v1, but at the cost of **longer inference time** (up to 6 minutes).
 
@@ -109,7 +115,7 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 
 ---
 
-## **4\. Recommendations**
+## **5\. Recommendations**
 
 * If **accuracy** is the top priority and **inference time is not critical**, **Mistral** is the best option.
 
@@ -121,6 +127,6 @@ Metrics include **accuracy**, **false positives/negatives**, **correct/wrong ans
 
 ---
 
-## **5\. Suggested Next Steps**
+## **6\. Suggested Next Steps**
 
 * Consider deeper evaluation on **long-context QA** and **retrieval-augmented tasks (RAG)**, as models like Qwen2.5 and Mistral show promising trends.
