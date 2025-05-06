@@ -21,7 +21,7 @@ We evaluated five leading open-source LLMs on three different datasets:
 Metrics include **accuracy**, **false positives/negatives**, **correct/wrong answer rates**, and **inference time**.
 
 ---
-## **2\. Settings **
+## **2\. Settings**
 
 We pick 200 questions for each benchmark and verify responses from LLM by using EM (Exact Match) and Cosine Similarity. 
 
